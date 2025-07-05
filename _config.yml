@@ -2,7 +2,7 @@ title: Jeremy Stevens
 author: Jeremy Stevens
 description: My personal website
 
-theme: jekyll-theme-minima
+theme: minima
 
 header_pages:
   - index.md
