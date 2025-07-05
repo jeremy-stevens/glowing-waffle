@@ -1,5 +1,8 @@
-theme: minima
-remote_theme: jekyll/minima
+title: Jeremy Stevens
+author: Jeremy Stevens
+description: My personal website
+
+theme: jekyll-theme-minima
 
 header_pages:
   - index.md
